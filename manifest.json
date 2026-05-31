@@ -1,0 +1,22 @@
+{
+  "name": "Urdu Arabic Keyboard",
+  "short_name": "اردو عربي",
+  "description": "Urdu and Arabic keyboard with full alphabet and harakat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0c1e",
+  "theme_color": "#0f0c1e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
